@@ -62,5 +62,5 @@ Para saber como abrir um novo isse [segue aqui o tutorial](https://docs.github.c
 
 NOME                              | CARGO               | LINKEDIN                                    |
 ----------------------------------| ------------------- | --------------------------------------------|
-:1st_place_medal: João zinho      | Analista de dados   |<https://www.linkedin.com/in/antoniocgomes/> |
-:1st_place_medal: João zinho      | Analista de BI Sr.  |:lock:                                       |
+:1st_place_medal: João fulano     | Analista de dados   |<https://www.linkedin.com/in/Joazinho/> |
+:1st_place_medal: João fulano     | Analista de BI Sr.  |:lock:                                       |
