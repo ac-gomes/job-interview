@@ -23,7 +23,7 @@ O conteúdo deste guia é 100% baseado em experiencias reais de pessoas que já 
 
 Se o leitor/usuário não localizar algum conteúdo muito teórico ou situações/questões muito especificas a qual tenha interesse. É porque ainda não entrevistamos pessoas que passaram por algo do tipo.
 
-## Publico alvo
+## Público alvo
 
 Como este é um guia focado em ajudar brasileiros. Ele terá duas versões uma versão em português e outra versão em inglês.
 
