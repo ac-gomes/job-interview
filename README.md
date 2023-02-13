@@ -24,7 +24,7 @@ Este guia tem como objetivo dar um ‘norte’ do que possivelmente o entrevista
 
 Este guia não tem como objetivo especificar exatamente quem dos intrevistados teve a experiencia x ou y com a empresa z.
 
-Este guia não temo como objetivo falar acerca de experiencias negativas e positivas nos processo seletivo da empresa x ou y.
+Este guia não temo como objetivo falar acerca de experiencias negativas e positivas no processo seletivo da empresa x ou y.
 
 ## O que você irá encontrar aqui
 
@@ -40,7 +40,7 @@ Como este é um guia focado em ajudar brasileiros. Ele terá duas versões uma v
 
 - A versão em inglês, obviamente é focada nas pessoas que já tem conhecimento do idioma. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md).
 
-## Quem pode contribuir com o cantúdo
+## Quem pode contribuir com o conteúdo
 
 Qualquer pessoa que já teve alguma experiencia em processo seletivo internacional para um vaga de trabalho de tecnologia. E sinta-se à vontade em compartilhar sua experiencia.
 
