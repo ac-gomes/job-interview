@@ -2,13 +2,20 @@
 
 Esta página é uma visão geral acerca do conteúdo deste repositório.
 
+## Estrutura do repositório
+
+- [dji_en](); versão do guia em Inglês
+- [dji_pt-br](); versão do guia em Português
+- [dji-linkedin](); dicas de como retornar uma abordagem no linkedin
+- [dji-videos](); repositório para listar conteudo em video
+
 ## O principal objetivo deste guia
 
 Este guia tem como objetivo dar um ‘norte’ do que possivelmente o entrevistado irá encontrar ao aceitar uma proposta de emprego para trabalhar remoto daqui do Brasil para o exterior ou trabalhar remoto alocado no exterior.
 
 Este guia não tem como objetivo especificar exatamente quem dos intrevistados teve a experiencia x ou y com a empresa z.
 
-Este gui não temo como objetivo falar acerca de experiencias negativas e positivas nos processo seletivo da empresa x ou y.
+Este guia não temo como objetivo falar acerca de experiencias negativas e positivas nos processo seletivo da empresa x ou y.
 
 ## O que você irá encontrar aqui
 
@@ -53,7 +60,7 @@ Para saber como abrir um novo isse [segue aqui o tutorial](https://docs.github.c
 ## CRÉDITOS
 -----
 
-NOME                              | CARGO               | LINKEDIN                      |
----------------------------       | ------------------- | ----------------------------- |
-:1st_place_medal: João zinho      | Analista de BI Sr.  |<https://www.linkedin.com/in/antoniocgomes/>
-:1st_place_medal: João zinho      | Analista de BI Sr.  |:lock:
+NOME                              | CARGO               | LINKEDIN                                    |
+----------------------------------| ------------------- | --------------------------------------------|
+:1st_place_medal: João zinho      | Analista de dados   |<https://www.linkedin.com/in/antoniocgomes/> |
+:1st_place_medal: João zinho      | Analista de BI Sr.  |:lock:                                       |
