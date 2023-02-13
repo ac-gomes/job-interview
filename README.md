@@ -36,6 +36,6 @@ Qualquer pessoa que queira participar do projeto em uma das atividades listadas 
 - Catalogar as experiencias coletadas
 
 ## Os Créditos
+> **Note**
+> Todas as pessoas que contribuírem com o conteúdo deste repositório terão seu nome e linkedin divulgados na seção créditos. Caso a pessoa não se sinta confortavel em fornecer o linkerdin somente o nome será mencionado na seção céditos.
 
-| :exclamation:  Todas as pessoas que contribuíram com o conteúdo deste epositório |
-|----------------------------------------------------------------------------------|
