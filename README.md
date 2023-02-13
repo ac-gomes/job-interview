@@ -4,10 +4,19 @@ Esta página é uma visão geral acerca do conteúdo deste repositório.
 
 ## Estrutura do repositório
 
+Este repositório tem duas branches, a **master** e a **previw**.
+
+- master; todo conteúdo novo será postado aqui somente após revisão e aprovação do pull request.
+
+- previw; todo conteúdo novo deve ser postado aqui e um pull request deve ser solicitado.
+
+## Conteúdo do repositório
+
 - [dji_en](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md); versão do guia em Inglês
 - [dji_pt-br](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md); versão do guia em Português
 - [dji-linkedin](https://github.com/ac-gomes/job-interview/blob/master/dji-linkedin/README.md); dicas de como retornar uma abordagem no linkedin
 - [dji-videos](https://github.com/ac-gomes/job-interview/tree/master/dji-videos); repositório para listar conteudo em video
+
 
 ## O principal objetivo deste guia
 
