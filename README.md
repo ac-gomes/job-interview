@@ -4,10 +4,10 @@ Esta página é uma visão geral acerca do conteúdo deste repositório.
 
 ## Estrutura do repositório
 
-- [dji_en](); versão do guia em Inglês
-- [dji_pt-br](); versão do guia em Português
-- [dji-linkedin](); dicas de como retornar uma abordagem no linkedin
-- [dji-videos](); repositório para listar conteudo em video
+- [dji_en](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md); versão do guia em Inglês
+- [dji_pt-br](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md); versão do guia em Português
+- [dji-linkedin](https://github.com/ac-gomes/job-interview/blob/master/dji-linkedin/README.md); dicas de como retornar uma abordagem no linkedin
+- [dji-videos](https://github.com/ac-gomes/job-interview/tree/master/dji-videos); repositório para listar conteudo em video
 
 ## O principal objetivo deste guia
 
