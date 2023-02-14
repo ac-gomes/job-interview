@@ -50,7 +50,7 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
 
 #### Não fique todo instante pedindo desculpas pela qualidade do seu inglês ao invés disso foque em deixar claro o que você  esta tentando transmitir
 
-> **Nota**
+> **Note**
 >
 > - Os recrutadores gringos por alguma razão se surpreendem/valorizam o 'heroísmo', no sentido de que você 'tem 3 a 4 meses estudando inglês e já está fazendo uma entrevista.<br>
 > - Você aprendeu a programar sozinho(a), se superou.<br>
