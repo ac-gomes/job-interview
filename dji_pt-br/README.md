@@ -61,4 +61,6 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
 >>
 >>Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já fez tantas entrevista quanto você poderia imaginar. Use isso com moderação.
 
+### Alguns entrevistadores iram começa a entrevista, meio que desinteressados no que você tem a dizer e, aos poucos vão se interessando conforme você for falando. Não se intimide esteja confiante
+
 ## :star: A data da entrevista chegou
