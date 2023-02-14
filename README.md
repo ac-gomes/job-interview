@@ -12,9 +12,9 @@ Este repositório tem duas branches, a **master** e a **preview**.
 
 ## Conteúdo do repositório
 
-- [dji_en](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md); versão do guia em Inglês
-- [dji_pt-br](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md); versão do guia em Português
-- [dji-linkedin](https://github.com/ac-gomes/job-interview/blob/master/dji-linkedin/README.md); dicas de como retornar uma abordagem no linkedin
+- [dji_en](https://github.com/ac-gomes/job-interview/tree/master/dji_en); versão do guia em Inglês
+- [dji_pt-br](https://github.com/ac-gomes/job-interview/tree/master/dji_pt-br); versão do guia em Português
+- [dji-linkedin](https://github.com/ac-gomes/job-interview/tree/master/dji-linkedin); dicas de como retornar uma abordagem no linkedin
 - [dji-videos](https://github.com/ac-gomes/job-interview/tree/master/dji-videos); repositório para listar conteudo em vídeo
 
 ## O principal objetivo deste guia
@@ -35,9 +35,9 @@ Se o leitor/usuário não localizar algum conteúdo muito teórico ou situaçõe
 
 Como este é um guia focado em ajudar brasileiros. Ele terá duas versões, uma versão em português e outra versão em inglês.
 
-- A versão em português é justamente para facilitar o acesso das pessoas que ainda não falam em inglês. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md).
+- A versão em português é justamente para facilitar o acesso das pessoas que ainda não falam em inglês. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/tree/master/dji_pt-br).
 
-- A versão em inglês, obviamente é focada nas pessoas que já tem conhecimento do idioma. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md).
+- A versão em inglês, obviamente é focada nas pessoas que já tem conhecimento do idioma. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/tree/master/dji_en).
 
 ## Quem pode contribuir com o conteúdo
 

@@ -38,4 +38,25 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
     2. Tente perguntar sobre a cultura
     3. Tente descobrir qual é 'a fama da empresa' se ela é 'boa' ou 'ruim'
 
+### :information_source: Em uma intrevista internacional
+
+#### Não se preocupe com o(a) recrutador(a) perguntando a sua idade
+
+#### Não se preocupe com o(a) recrutador(a) perguntando se você tem filhos
+
+#### Não se preocupe com o(a) recrutador(a) perguntando com quem você vai deixar seus filhos
+
+#### No geral é muito difícil algum(a) recrutador(a) focar em questões da sua vida pessoal, a menos que você por algum motivo tome a iniciativa de direcionar a conversa para este ponto
+
+#### Não fique todo instante pedindo desculpas pela qualidade do seu inglês ao invés disso foque em deixar claro o que você  esta tentando transmitir
+
+> **Nota**<br>
+>
+> - Os recrutadores gringos por alguma razão se surpreendem/valorizam o 'heroísmo', no sentido de que você 'tem 3 a 4 meses estudando inglês e já está fazendo uma entrevista.<br>
+> - Você aprendeu a programar sozinho(a), se superou.<br>
+> - Você conseguiu fazer uma transição de carreira de uma area administrativa para tecnologia de um forma bem sucedida em pouco tempo.<br>
+>
+>> Sempre algo nesse sentido. Isso ajuda a quebrar o gelo e te deixar mais confortavel.<br>
+>> :heavy_exclamation_mark: Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já feztantas entrevista quanto você possa imaginar. use isso com moderação.
+
 ## :star: A data da entrevista chegou
