@@ -57,6 +57,8 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
 > - Você conseguiu fazer uma transição de carreira de uma area administrativa para tecnologia de um forma bem sucedida em pouco tempo.<br>
 > - Sempre algo nesse sentido, isso ajuda a quebrar o gelo e te deixar mais confortavel.<br>
 >
->> **Warning** Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já fez tantas entrevista quanto você poderia imaginar. Use isso com moderação.
+>> **Warning**
+>>
+>>Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já fez tantas entrevista quanto você poderia imaginar. Use isso com moderação.
 
 ## :star: A data da entrevista chegou
