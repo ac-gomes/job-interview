@@ -1,6 +1,6 @@
 # Guia de entrevista internacionais
 
-Nesta págia encontram-se as experiencias reais das pessoas que foram entrevistadas para cargos na area de tecnologia.
+Nesta página encontram-se as experiências reais de pessoas que foram entrevistadas para cargos internacionais na área de tecnologia.
 
 É importante ressaltar que os tópicos serão organizados em uma ordem logica que faça sentido para a leitura. Portanto, isso não sigifica que na sua entrevista as perguntas e abordagens feitas pelo(a) entrevisador(a) serão realizadas na mesma ordem apresentada neste guia.
 
