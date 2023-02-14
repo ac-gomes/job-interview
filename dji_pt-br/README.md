@@ -38,7 +38,7 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
     2. Tente perguntar sobre a cultura
     3. Tente descobrir qual é 'a fama da empresa' se ela é 'boa' ou 'ruim'
 
-### :information_source: Em uma intrevista internacional
+### :information_source: Em uma entrevista internacional
 
 #### Não se preocupe com o(a) recrutador(a) perguntando a sua idade
 
