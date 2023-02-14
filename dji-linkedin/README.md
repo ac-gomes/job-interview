@@ -1,0 +1,1 @@
+# Como responder a abordagem de um recrutador feita no Linkedin

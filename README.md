@@ -4,19 +4,18 @@ Esta página é uma visão geral acerca do conteúdo deste repositório.
 
 ## Estrutura do repositório
 
-Este repositório tem duas branches, a **master** e a **previw**.
+Este repositório tem duas branches, a **master** e a **preview**.
 
 - master; todo conteúdo novo será postado aqui somente após revisão e aprovação do pull request.
 
-- previw; todo conteúdo novo deve ser postado aqui e um pull request deve ser solicitado.
+- preview; todo conteúdo novo deve ser postado aqui e um pull request deve ser solicitado. Após revisão será feito o merge com a branch master
 
 ## Conteúdo do repositório
 
 - [dji_en](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md); versão do guia em Inglês
 - [dji_pt-br](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md); versão do guia em Português
 - [dji-linkedin](https://github.com/ac-gomes/job-interview/blob/master/dji-linkedin/README.md); dicas de como retornar uma abordagem no linkedin
-- [dji-videos](https://github.com/ac-gomes/job-interview/tree/master/dji-videos); repositório para listar conteudo em video
-
+- [dji-videos](https://github.com/ac-gomes/job-interview/tree/master/dji-videos); repositório para listar conteudo em vídeo
 
 ## O principal objetivo deste guia
 
@@ -34,9 +33,9 @@ Se o leitor/usuário não localizar algum conteúdo muito teórico ou situaçõe
 
 ## Público alvo
 
-Como este é um guia focado em ajudar brasileiros. Ele terá duas versões uma versão em português e outra versão em inglês.
+Como este é um guia focado em ajudar brasileiros. Ele terá duas versões, uma versão em português e outra versão em inglês.
 
-- A versão em português é justamente para facilitar o acesso das pessoas que ainda não falam em Inglês. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md).
+- A versão em português é justamente para facilitar o acesso das pessoas que ainda não falam em inglês. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/blob/master/dji_pt-br/data-job-interview_pt-br.md).
 
 - A versão em inglês, obviamente é focada nas pessoas que já tem conhecimento do idioma. [E você pode acessá-la aqui](https://github.com/ac-gomes/job-interview/blob/master/dji_en/data-job-interview_en.md).
 
@@ -62,14 +61,17 @@ Qualquer pessoa que queira participar do projeto em uma das atividades listadas 
 
 ## Sugestões
 
-Para sugerir novos tópicos cria um issue e assim que possível daremos um retorno com a conclusão.
-Para saber como abrir um novo isse [segue aqui o tutorial](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue)
+Para sugerir novos tópicos. Favor criar um issue e assim que possível daremos um retorno com a conclusão.
+Para saber como abrir um novo issue [segue aqui o tutorial](https://docs.github.com/pt/issues/tracking-your-work-with-issues/creating-an-issue)
 
 -----
+
 ## CRÉDITOS
+
 -----
 
 NOME                              | CARGO               | LINKEDIN                                    |
 ----------------------------------| ------------------- | --------------------------------------------|
-:1st_place_medal: João fulano     | Analista de dados   |<https://www.linkedin.com/in/Joazinho/> |
+:1st_place_medal: João fulano     | Analista de dados   |<https://www.linkedin.com/in/Joazinho/>      |
 :1st_place_medal: João fulano     | Analista de BI Sr.  |:lock:                                       |
+
