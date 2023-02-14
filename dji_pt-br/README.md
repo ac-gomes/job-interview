@@ -6,7 +6,7 @@ Nesta págia encontram-se as experiencias reais das pessoas que foram entrevista
 
 Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na primeira entrevista com o RH, ou seja, 'quebrar o gelo' na etapa inicial do processo seletivo. Pois uma vez que você avance para as próximas etapas faz-se necessário uso da sua bagagem técnica para passar nas etapas que exigem conhecimento técnico da área que você atua.
 
-> **Worning**
+> **Warning**
 > Serão listadas aqui na forma de tópico somente os principais pontos de cada entrevista realizada. Não levando em conta a riquezaa nos detalhes justamente para preservar a identidade dos envolvidos.
 
 ## :star: A entrevista foi agendada e agora?
