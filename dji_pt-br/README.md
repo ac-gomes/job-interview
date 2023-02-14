@@ -50,13 +50,13 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
 
 #### Não fique todo instante pedindo desculpas pela qualidade do seu inglês ao invés disso foque em deixar claro o que você  esta tentando transmitir
 
-> **Nota**<br>
+> **Nota**
 >
 > - Os recrutadores gringos por alguma razão se surpreendem/valorizam o 'heroísmo', no sentido de que você 'tem 3 a 4 meses estudando inglês e já está fazendo uma entrevista.<br>
 > - Você aprendeu a programar sozinho(a), se superou.<br>
 > - Você conseguiu fazer uma transição de carreira de uma area administrativa para tecnologia de um forma bem sucedida em pouco tempo.<br>
+> - Sempre algo nesse sentido, isso ajuda a quebrar o gelo e te deixar mais confortavel.<br>
 >
->> Sempre algo nesse sentido. Isso ajuda a quebrar o gelo e te deixar mais confortavel.<br>
->> :heavy_exclamation_mark: Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já feztantas entrevista quanto você possa imaginar. use isso com moderação.
+>> **Warning** Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já fez tantas entrevista quanto você poderia imaginar. Use isso com moderação.
 
 ## :star: A data da entrevista chegou
