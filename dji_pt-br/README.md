@@ -52,14 +52,14 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
 
 > **Note**
 >
-> - Os recrutadores gringos por alguma razão se surpreendem/valorizam o 'heroísmo', no sentido de que você 'tem 3 a 4 meses estudando inglês e já está fazendo uma entrevista.<br>
+> - Os recrutadores do esterior por alguma razão se surpreendem/valorizam a 'auto-superação'.<br>
 > - Você aprendeu a programar sozinho(a), se superou.<br>
 > - Você conseguiu fazer uma transição de carreira de uma area administrativa para tecnologia de um forma bem sucedida em pouco tempo.<br>
 > - Sempre algo nesse sentido, isso ajuda a quebrar o gelo e te deixar mais confortavel.<br>
 >
 >> **Warning**
 >>
->>Ache o momento certo para falar. E lembre-se o(a) entrevistador(a) já fez tantas entrevista quanto você poderia imaginar. Use isso com moderação.
+>>Ache o momento certo para falar. E lembre-se seja sincero(a) e honesto(a) o(a) entrevistador(a) já fez tantas entrevista quanto você poderia imaginar. Use isso com moderação.
 
 ### Alguns entrevistadores(a) irão começar a entrevista meio que desinteressados no que você tem a dizer e, aos poucos vão se interessando conforme você for falando. Não se intimide esteja confiante
 
