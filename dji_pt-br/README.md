@@ -52,7 +52,7 @@ Outro ponto importante, os tópicos aqui presentes têm como foco ajudar na prim
 
 > **Note**
 >
-> - Os recrutadores do esterior por alguma razão se surpreendem/valorizam a 'auto-superação'.<br>
+> - Os recrutadores do exterior por alguma razão se surpreendem/valorizam a 'auto-superação'.<br>
 > - Você aprendeu a programar sozinho(a), se superou.<br>
 > - Você conseguiu fazer uma transição de carreira de uma area administrativa para tecnologia de um forma bem sucedida em pouco tempo.<br>
 > - Sempre algo nesse sentido, isso ajuda a quebrar o gelo e te deixar mais confortavel.<br>
